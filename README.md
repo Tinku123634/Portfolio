@@ -146,8 +146,7 @@ footer {
 
 ## OUTPUT
 
-c:\Users\acer\Pictures\Screenshots\Screenshot 2026-07-27 105534.png c:\Users\acer\Pictures\Screenshots\Screenshot 2026-07-27 105700.png
-
+c:\Users\acer\Pictures\Screenshots\Screenshot 2026-07-27 105534.png
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
