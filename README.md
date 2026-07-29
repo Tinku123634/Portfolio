@@ -147,9 +147,13 @@ footer {
   padding: 10px;
 }
 
-~~~
+```
 
 ## OUTPUT
+<img width="1917" height="1078" alt="tp" src="https://github.com/user-attachments/assets/752fc11b-ea37-4796-8d67-ca241d5bcd69" />
+
+<img width="1917" height="1078" alt="pt" src="https://github.com/user-attachments/assets/575da758-ad65-453d-9dc2-0514aafb2716" />
+
 
 
 ## RESULT
