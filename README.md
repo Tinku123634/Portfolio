@@ -149,11 +149,7 @@ footer {
 
 ~~~
 
-## OUTPUt
-
-<img width="1917" height="1078" alt="tp" src="https://github.com/user-attachments/assets/7624d4cd-d46c-4fcd-974b-023a2ee68559" />
-
-<img width="1917" height="1078" alt="Screenshot 2026-07-27 105700" src="https://github.com/user-attachments/assets/cac5970e-1987-4d36-9fe7-d38993ac15c2" />
+## OUTPUT
 
 
 ## RESULT
