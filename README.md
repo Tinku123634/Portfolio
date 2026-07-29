@@ -49,6 +49,8 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 ```
+## index.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,6 +102,9 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 
+## style.css
+
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -144,8 +149,10 @@ footer {
 
 ~~~
 
-## OUTPUT
+## OUTPUt
 
+tp.png
+Screenshot 2026-07-27 105700.png
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
