@@ -12,7 +12,7 @@ Create an HTML file (index.html)
 Create a CSS file (style.css)
 
 ### STEP 3
-Include a navigation bar with links to different sections.
+Include a navigation bar with links to different sections
 
 ### STEP 4
 Add structured sections for introduction, about, projects, and contact details.
